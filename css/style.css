@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+    flex-direction: column;
+}
+
+input{
+    margin: 10px 0;
+} 
